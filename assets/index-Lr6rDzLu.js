@@ -35,7 +35,7 @@ Le site et l’application ${fl.appName}, accessibles à l’adresse ${fl.siteUr
 
 ### Hébergement
 
-L’application est hébergée par **Netlify, Inc.**, 101 2nd Street, San Francisco, CA 94105, États-Unis — [netlify.com](https://www.netlify.com). Contact : privacy@netlify.com.
+L’application est hébergée par **GitHub, Inc.** (service GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis — [github.com](https://github.com).
 
 Les données des comptes et des événements sont stockées par **Supabase, Inc.** dans un centre de données situé à Paris (France) — [supabase.com](https://supabase.com).
 
@@ -136,7 +136,7 @@ ${fl.owner} EI, ${fl.address}, ${fl.email}.
 | Compte : adresse e-mail, mot de passe (chiffré) | Vous connecter, retrouver vos événements sur vos appareils | Exécution du contrat |
 | Organisation : événement, tâches, budget, prestataires, documents, planning, cadeaux communs, remerciements | Fournir le service | Exécution du contrat |
 | Invités saisis par vous : nom, prénoms, nombre de personnes, téléphone, e-mail, réponse, régime ou allergie, petit mot, place à table | Organiser votre événement, envoyer les faire-part, recevoir les réponses | Intérêt légitime (organiser l’événement) ; consentement de l’invité pour un régime lié à la santé |
-| Équipe : e-mail des co-organisateurs, mention « personne fêtée » | Organiser à plusieurs, garder les cadeaux communs secrets | Exécution du contrat |
+| Équipe : prénom, e-mail et téléphone des co-organisateurs (saisis lors de l’invitation), mention « personne fêtée » | Organiser à plusieurs, garder les cadeaux communs secrets | Exécution du contrat |
 | Paiement : formule achetée, montant, date, identifiant Stripe | Fournir la formule, comptabilité | Exécution du contrat ; obligation légale |
 | E-mails envoyés : destinataire, date | Faire-part, relances, rappels d’échéances | Exécution du contrat |
 
@@ -153,7 +153,7 @@ Nos prestataires techniques, qui traitent les données pour notre compte :
 | Prestataire | Rôle | Lieu | Garanties pour les transferts |
 | --- | --- | --- | --- |
 | Supabase, Inc. | Base de données, comptes, fichiers | Données stockées à Paris ; accès possibles depuis les États-Unis et Singapour | Clauses contractuelles types de la Commission européenne |
-| Netlify, Inc. | Hébergement de l’application | États-Unis | Data Privacy Framework UE–États-Unis et clauses contractuelles types |
+| GitHub, Inc. (GitHub Pages) | Hébergement de l’application | États-Unis | Data Privacy Framework UE–États-Unis et clauses contractuelles types |
 | Resend (Plus Five Five, Inc.) | Envoi des e-mails | États-Unis | Data Privacy Framework UE–États-Unis et clauses contractuelles types |
 | Stripe | Paiement | Union européenne et États-Unis | [À vérifier dans la politique de Stripe] |
 
